@@ -12,7 +12,9 @@ An AI-powered email intelligence agent that automatically retrieves emails from 
 
 ## How It Works
 
+
 <img width="1470" height="842" alt="Orchestration" src="https://github.com/user-attachments/assets/3d3b74b4-ab69-403f-9135-f635e0c91b84" />
+
 
 1.  **Scheduled Trigger:** A chron-based trigger initiates the n8n workflow at a designated time each day.
 2.  **Data Retrieval:** The Gmail node securely authenticates via OAuth 2.0 and fetches emails received over the past 24 hours.
