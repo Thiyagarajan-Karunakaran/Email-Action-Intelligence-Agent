@@ -1,4 +1,4 @@
-# Email-Action-Intelligence-Agent
+# Email Action Intelligence Agent
 
 ## Introduction
 An AI-powered email intelligence agent that automatically retrieves emails from Gmail, aggregates the content, and analyzes it using OpenAI. The system generates structured daily digest reports containing key insights, priority issues, and actionable items, delivering them as professionally formatted HTML emails through an automated n8n workflow.
