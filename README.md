@@ -1,4 +1,4 @@
-# 📧 Email-Action-Intelligence-Agent
+# Email-Action-Intelligence-Agent
 
 ## 📖 Introduction
 An AI-powered email intelligence agent that automatically retrieves emails from Gmail, aggregates the content, and analyzes it using OpenAI. The system generates structured daily digest reports containing key insights, priority issues, and actionable items, delivering them as professionally formatted HTML emails through an automated n8n workflow.
@@ -29,7 +29,7 @@ An AI-powered email intelligence agent that automatically retrieves emails from 
 *   **Self-Hosted & Secure:** Containerized deployment via Docker with secure public webhook access via Cloudflare Tunnel.
 *   **Highly Extensible:** Workflow can be easily adapted to push summaries to Slack, Telegram, or Notion.
 
-## Response
+## Output
 
 <img width="1312" height="1276" alt="Mail_Response" src="https://github.com/user-attachments/assets/83cc1adf-5dd0-49e0-a0dc-fe3621ff4026" />
 
